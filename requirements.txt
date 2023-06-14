@@ -64,7 +64,7 @@ simple-websocket==0.10.0
 six==1.16.0
 #sos==4.4
 ssh-import-id==5.11
-SunFounder-PiCar==1.0.1
+#SunFounder-PiCar==1.0.1
 systemd-python==234
 Twisted==22.1.0
 ubuntu-advantage-tools==8001
