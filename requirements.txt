@@ -75,4 +75,4 @@ wadllib==1.3.6
 Werkzeug==2.3.4
 wsproto==1.2.0
 zipp==1.0.0
-zope.interface==5.4.0
+#zope.interface==5.4.0
